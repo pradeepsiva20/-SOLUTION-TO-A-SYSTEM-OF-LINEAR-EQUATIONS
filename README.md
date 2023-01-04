@@ -23,7 +23,7 @@ print(result)
 ```
 
 ## Output:
-![Uploading solving system of linear equation.png…]()
+![solving system of linear equation](https://user-images.githubusercontent.com/120539823/210518112-3f97c507-27de-4f5a-a19f-033ee32235cf.png)
 
 
 ## Result: 
